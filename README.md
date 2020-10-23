@@ -1,3 +1,3 @@
 # spotify-clone
 
-<img src="../imagens/img_site.png" >
+<img src="https://github.com/zenilton18/spotify-clone/blob/master/img_site.png">
